@@ -5,7 +5,7 @@
         <filter/>
         <name>t1s</name>
         <order/>
-        <path/>
+        <path>
         <path_relative_to_root>false</path_relative_to_root>
         <roles>sn_test1.t1_user</roles>
         <sys_class_name>sys_ui_module</sys_class_name>
